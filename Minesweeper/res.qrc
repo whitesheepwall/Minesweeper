@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/BackButton.png</file>
+        <file>res/BackButtonSelected.png</file>
+        <file>res/BoardNode.png</file>
+        <file>res/flag.png</file>
+        <file>res/question.png</file>
+        <file>res/window.png</file>
+        <file>res/StartButton.png</file>
+        <file>res/number1.png</file>
+        <file>res/number2.png</file>
+        <file>res/number3.png</file>
+        <file>res/number4.png</file>
+        <file>res/number5.png</file>
+        <file>res/number6.png</file>
+        <file>res/number7.png</file>
+        <file>res/number8.png</file>
+        <file>res/number0.png</file>
+        <file>res/mine.png</file>
+        <file>res/null.png</file>
+    </qresource>
+</RCC>
